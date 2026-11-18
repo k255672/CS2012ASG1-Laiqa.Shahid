@@ -1,0 +1,5 @@
+city,date,time,type,amount,status
+New York,2026-10-19,09:15:00,Credit,2450.00,Completed
+Chicago,2026-10-19,10:30:00,Debit,875.50,Completed
+Boston,2026-10-18,14:05:00,Credit,1200.00,Pending
+Seattle,2026-10-18,16:45:00,Debit,320.00,Completed
