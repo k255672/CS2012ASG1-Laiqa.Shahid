@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {"city": "Karachi", "date": "2026-11-14", "time": "08:10:00", "type": "Credit", "amount": 1800, "status": "Completed"},
+    {"city": "Lahore", "date": "2026-11-14", "time": "08:45:00", "type": "Debit", "amount": "650.25", "status": "Completed"},
+    {"city": "Islamabad", "date": "2026-11-14", "time": "13:20:00", "type": "Debit", "amount": 4200, "status": "Pending"},
+    {"city": "Multan", "date": "2026-11-15", "time": "09:35:00", "type": "Credit", "amount": 975.5, "status": "Completed"},
+    {"city": "Karachi", "date": "2026-11-15", "time": "14:00:00", "type": "Credit", "amount": "2300", "status": "Completed"},
+    {"city": "Peshawar", "date": "2026-11-15", "time": "16:30:00", "type": "Debit", "amount": 120, "status": "Completed"},
+    {"city": "Faisalabad", "date": "2026-11-16", "time": "10:05:00", "type": "Credit", "amount": 5100, "status": "Completed"},
+    {"city": "Quetta", "date": "2026-11-16", "time": "11:50:00", "type": "Debit", "amount": 330.75, "status": "Pending"},
+    {"city": "Karachi", "date": "2026-11-16", "time": "17:15:00", "type": "Debit", "amount": 89.99, "status": "Completed"},
+    {"city": "Lahore", "date": "2026-11-16", "time": "19:40:00", "type": "Credit", "amount": 6400, "status": "Completed"},
+    {"city": "Karachi", "date": "2026-11-16", "time": "21:00:00", "type": "Credit", "amount": null, "status": "Completed"},
+    {"city": "Multan", "date": "2026-11-16", "time": "21:30:00", "type": "Debit", "amount": 0, "status": "Completed"},
+    "not a record",
+    {"city": "Lahore", "date": "16/11/2026", "time": "22:00:00", "type": "Credit", "amount": 100, "status": "Completed"},
+    {"city": "CPY-0000", "date": "", "time": "", "type": "", "amount": 0, "status": "cpy-333"}
+  ]
+}
