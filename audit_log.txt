@@ -1,0 +1,7 @@
+FinPay Audit Log
+Generated: 2026-11-18 14:44:45
+------------------------------------------------------------------------------
+  1. [2026-11-18 14:44:34]  LOAD     records: 4       net amount: +2,454.50
+  2. [2026-11-18 14:44:39]  FILTER   records: 1       net amount: -875.50
+  3. [2026-11-18 14:44:43]  FILTER   records: 1       net amount: -875.50
+  4. [2026-11-18 14:44:45]  EXPORT   records: 1       net amount: -875.50
